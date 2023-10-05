@@ -1,0 +1,39 @@
+body{
+    background-color: beige;
+}
+
+h1{
+    color: red;
+}
+
+h1 strong em{
+    letter-spacing: 3px;
+}
+
+h2 strong{
+    color: red;
+}
+
+p{
+    text-align: justify;
+}
+
+p{
+    font-size: 15pt;
+}
+
+p strong{
+    color: green;
+}
+
+p em{
+    color: orange;
+}
+
+p strong em{
+    color: brown;
+}
+
+a strong{
+    letter-spacing: 5px;
+}
